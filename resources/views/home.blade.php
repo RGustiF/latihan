@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('KAMU SUDAH LOGIN BANGSAT') }}
+                    {{ __('KAMU SUDAH BERADA DI ISEKAI') }}
                 </div>
             </div>
         </div>
